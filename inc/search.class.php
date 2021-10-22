@@ -7473,6 +7473,7 @@ JAVASCRIPT;
                $font       = $_SESSION['glpipdffont'];
                //$subsetting = false;
             }
+            $font       = 'thsarabun'; //Fix
             $pdf->setHeaderFont([$font, 'B', $fontsize]);
             $pdf->setFooterFont([$font, 'B', $fontsize]);
 

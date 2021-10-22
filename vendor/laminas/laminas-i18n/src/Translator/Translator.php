@@ -597,7 +597,7 @@ class Translator implements TranslatorInterface
      */
     protected function loadMessages($textDomain, $locale)
     {
-        if (! isset($this->messages[$textDomain])) {
+        /*if (! isset($this->messages[$textDomain])) {
             $this->messages[$textDomain] = [];
         }
 
@@ -609,11 +609,11 @@ class Translator implements TranslatorInterface
 
                 return;
             }
-        }
+        }*/
 
         $messagesLoaded  = false;
-        $messagesLoaded |= $this->loadMessagesFromRemote($textDomain, $locale);
-        $messagesLoaded |= $this->loadMessagesFromPatterns($textDomain, $locale);
+        //$messagesLoaded |= $this->loadMessagesFromRemote($textDomain, $locale);
+        //$messagesLoaded |= $this->loadMessagesFromPatterns($textDomain, $locale);
         $messagesLoaded |= $this->loadMessagesFromFiles($textDomain, $locale);
 
         if (! $messagesLoaded) {
@@ -640,9 +640,9 @@ class Translator implements TranslatorInterface
             $messagesLoaded = true;
         }
 
-        if ($messagesLoaded && $cache !== null) {
+        /*if ($messagesLoaded && $cache !== null) {
             $cache->setItem($cacheId, $this->messages[$textDomain][$locale]);
-        }
+        }*/
     }
 
     /**

@@ -2535,7 +2535,7 @@ msgstr "ผลกระทบ"
 #: inc/dbutils.class.php:1537 inc/user.class.php:2318 inc/auth.class.php:1631
 msgctxt "person"
 msgid "Title"
-msgstr "ชื่อเรื่อง"
+msgstr "ตำแหน่ง"
 
 #: front/stat.graph.php:282 front/stat.graph.php:283
 #: inc/commonglpi.class.php:989 inc/html.class.php:4083

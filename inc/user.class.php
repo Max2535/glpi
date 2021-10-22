@@ -46,8 +46,8 @@ class User extends CommonDBTM {
                                      'publicbookmarkorder', 'privatebookmarkorder'];
 
    // NAME FIRSTNAME ORDER TYPE
-   const REALNAME_BEFORE   = 0;
-   const FIRSTNAME_BEFORE  = 1;
+   const REALNAME_BEFORE   = 1;
+   const FIRSTNAME_BEFORE  = 0;
 
    const IMPORTEXTAUTHUSERS  = 1024;
    const READAUTHENT         = 2048;

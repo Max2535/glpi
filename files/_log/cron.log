@@ -36,3 +36,41 @@ Internal #1: Launch slaticket
 ภายใน #1: เริ่มต้น olaticket
 2021-10-22 13:04:24 [2@WIN-7S737QLFFLD]
 ภายใน #1: เริ่มต้น planningrecall
+2021-10-22 13:10:26 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น queuednotification
+2021-10-22 13:14:54 [@WIN-7S737QLFFLD]
+Internal #1: Launch ticketrecurrent
+2021-10-22 13:15:49 [@WIN-7S737QLFFLD]
+Internal #1: Launch temp
+2021-10-22 13:18:03 [@WIN-7S737QLFFLD]
+Internal #1: Launch mailgate
+2021-10-22 13:18:11 [@WIN-7S737QLFFLD]
+Internal #1: Launch slaticket
+2021-10-22 13:26:31 [2@WIN-7S737QLFFLD]
+Internal #1: Launch olaticket
+2021-10-22 13:26:57 [@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น planningrecall
+2021-10-22 13:27:04 [@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น queuednotification
+2021-10-22 13:27:11 [@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น slaticket
+2021-10-22 13:27:19 [@WIN-7S737QLFFLD]
+ภายใน #1: ไม่มีอะไรที่จะเริ่ม
+2021-10-22 13:28:11 [@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น mailgate
+2021-10-22 13:29:06 [@WIN-7S737QLFFLD]
+Internal #1: Launch queuednotification
+2021-10-22 13:29:52 [@WIN-7S737QLFFLD]
+Internal #1: Nothing to Launch
+2021-10-22 13:31:38 [2@WIN-7S737QLFFLD]
+Internal #1: Launch queuednotification
+2021-10-22 13:32:22 [@WIN-7S737QLFFLD]
+Internal #1: Launch planningrecall
+2021-10-22 13:32:25 [@WIN-7S737QLFFLD]
+Internal #1: Launch olaticket
+2021-10-22 13:36:09 [296@WIN-7S737QLFFLD]
+Internal #1: Launch slaticket
+2021-10-22 13:40:18 [297@WIN-7S737QLFFLD]
+Internal #1: Launch queuednotification
+2021-10-22 13:41:55 [6@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น graph
