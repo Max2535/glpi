@@ -1,0 +1,29 @@
+s:1624:".dashboard #chart-1887767043 .ct-series-a .ct-point, .dashboard #chart-1887767043 .ct-series-a .ct-line, .dashboard #chart-1887767043 .ct-series-a .ct-bar, .dashboard #chart-1887767043 .ct-series-a .ct-slice-donut {
+  stroke: #aa5555; }
+.dashboard #chart-1887767043 .ct-series-a .ct-bar + .ct-barlabel {
+  fill: #422; }
+.dashboard #chart-1887767043 .ct-series-a .ct-circle {
+  fill: #aa5555; }
+  .dashboard #chart-1887767043 .ct-series-a .ct-circle + .ct-label {
+    fill: #aa5555; }
+.dashboard #chart-1887767043 .ct-series-a .ct-slice-pie, .dashboard #chart-1887767043 .ct-series-a .ct-area, .dashboard #chart-1887767043 .ct-series-a .ct-slice-donut-solid {
+  fill: #aa5555;
+  stroke: #422; }
+.dashboard #chart-1887767043 .ct-series-0:before {
+  background-color: #aa5555;
+  border-color: #aa5555; }
+  .dashboard #chart-1887767043 .ct-series-b .ct-point, .dashboard #chart-1887767043 .ct-series-b .ct-line, .dashboard #chart-1887767043 .ct-series-b .ct-bar, .dashboard #chart-1887767043 .ct-series-b .ct-slice-donut {
+    stroke: #ddbbbb; }
+  .dashboard #chart-1887767043 .ct-series-b .ct-bar + .ct-barlabel {
+    fill: #a55; }
+  .dashboard #chart-1887767043 .ct-series-b .ct-circle {
+    fill: #ddbbbb; }
+    .dashboard #chart-1887767043 .ct-series-b .ct-circle + .ct-label {
+      fill: #ddbbbb; }
+  .dashboard #chart-1887767043 .ct-series-b .ct-slice-pie, .dashboard #chart-1887767043 .ct-series-b .ct-area, .dashboard #chart-1887767043 .ct-series-b .ct-slice-donut-solid {
+    fill: #ddbbbb;
+    stroke: #a55; }
+.dashboard #chart-1887767043 .ct-series-1:before {
+  background-color: #ddbbbb;
+  border-color: #ddbbbb; }
+";

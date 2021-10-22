@@ -1,0 +1,38 @@
+2021-10-22 10:51:23 [@WIN-7S737QLFFLD]
+Internal #1: Launch createinquest
+2021-10-22 10:54:30 [@WIN-7S737QLFFLD]
+Internal #1: Launch watcher
+2021-10-22 10:59:39 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น ticketrecurrent
+2021-10-22 11:05:45 [2@WIN-7S737QLFFLD]
+Internal #1: Launch planningrecall
+2021-10-22 11:10:47 [2@WIN-7S737QLFFLD]
+Internal #1: Launch queuednotification
+2021-10-22 11:17:17 [2@WIN-7S737QLFFLD]
+Internal #1: Launch queuednotificationclean
+2021-10-22 11:22:33 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น temp
+2021-10-22 11:27:43 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น mailgateerror
+2021-10-22 11:33:30 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น contract
+2021-10-22 11:38:41 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น infocom
+2021-10-22 12:20:23 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น mailgate
+2021-10-22 12:25:35 [2@WIN-7S737QLFFLD]
+Internal #1: Launch session
+2021-10-22 12:36:20 [2@WIN-7S737QLFFLD]
+Internal #1: Launch graph
+2021-10-22 12:41:27 [2@WIN-7S737QLFFLD]
+Internal #1: Launch reservation
+2021-10-22 12:47:15 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น closeticket
+2021-10-22 12:52:17 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น alertnotclosed
+2021-10-22 12:52:36 [@WIN-7S737QLFFLD]
+Internal #1: Launch slaticket
+2021-10-22 12:57:43 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น olaticket
+2021-10-22 13:04:24 [2@WIN-7S737QLFFLD]
+ภายใน #1: เริ่มต้น planningrecall

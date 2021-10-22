@@ -1,0 +1,19 @@
+[2021-10-22 10:45:38] glpiphplog.WARNING: Test logger  
+[2021-10-22 10:54:14] glpiphplog.ERROR: Toolbox::callCurl() in C:\inetpub\Application\inventory\glpi\inc\toolbox.class.php line 1740
+Connection failed. If you use a proxy, please configure it. (SSL certificate problem: unable to get local issuer certificate)  {"user":"2@WIN-7S737QLFFLD"} 
+[2021-10-22 10:54:15] glpiphplog.ERROR: Toolbox::callCurl() in C:\inetpub\Application\inventory\glpi\inc\toolbox.class.php line 1740
+Connection failed. If you use a proxy, please configure it. (SSL certificate problem: unable to get local issuer certificate)  {"user":"2@WIN-7S737QLFFLD","mem_usage":"0.745\", 13.67Mio)"} 
+[2021-10-22 10:54:15] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\inetpub\Application\inventory\glpi\inc\glpinetwork.class.php line 316
+Unable to fetch offers information. Connection failed. If you use a proxy, please configure it. (SSL certificate problem: unable to get local issuer certificate)   {"user":"2@WIN-7S737QLFFLD","mem_usage":"0.000\", 13.67Mio)"} 
+[2021-10-22 10:54:15] glpiphplog.ERROR: Toolbox::callCurl() in C:\inetpub\Application\inventory\glpi\inc\toolbox.class.php line 1740
+Connection failed. If you use a proxy, please configure it. (SSL certificate problem: unable to get local issuer certificate)  {"user":"2@WIN-7S737QLFFLD","mem_usage":"0.593\", 13.75Mio)"} 
+[2021-10-22 10:54:15] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\inetpub\Application\inventory\glpi\inc\glpinetwork.class.php line 316
+Unable to fetch offers information. Connection failed. If you use a proxy, please configure it. (SSL certificate problem: unable to get local issuer certificate)   {"user":"2@WIN-7S737QLFFLD","mem_usage":"0.000\", 13.75Mio)"} 
+[2021-10-22 10:54:20] glpiphplog.ERROR: Toolbox::callCurl() in C:\inetpub\Application\inventory\glpi\inc\toolbox.class.php line 1740
+Connection failed. If you use a proxy, please configure it. (SSL certificate problem: unable to get local issuer certificate)  {"user":"2@WIN-7S737QLFFLD"} 
+[2021-10-22 10:54:20] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\inetpub\Application\inventory\glpi\inc\glpinetwork.class.php line 316
+Unable to fetch offers information. Connection failed. If you use a proxy, please configure it. (SSL certificate problem: unable to get local issuer certificate)   {"user":"2@WIN-7S737QLFFLD","mem_usage":"0.001\", 15.20Mio)"} 
+[2021-10-22 10:54:22] glpiphplog.ERROR: Toolbox::callCurl() in C:\inetpub\Application\inventory\glpi\inc\toolbox.class.php line 1740
+Connection failed. If you use a proxy, please configure it. (SSL certificate problem: unable to get local issuer certificate)  {"user":"2@WIN-7S737QLFFLD"} 
+[2021-10-22 10:54:22] glpiphplog.ERROR: GLPINetwork::getOffers() in C:\inetpub\Application\inventory\glpi\inc\glpinetwork.class.php line 316
+Unable to fetch offers information. Connection failed. If you use a proxy, please configure it. (SSL certificate problem: unable to get local issuer certificate)   {"user":"2@WIN-7S737QLFFLD","mem_usage":"0.000\", 14.54Mio)"} 

@@ -1,0 +1,29 @@
+s:1614:".dashboard #chart-753535949 .ct-series-a .ct-point, .dashboard #chart-753535949 .ct-series-a .ct-line, .dashboard #chart-753535949 .ct-series-a .ct-bar, .dashboard #chart-753535949 .ct-series-a .ct-slice-donut {
+  stroke: #33adcc; }
+.dashboard #chart-753535949 .ct-series-a .ct-bar + .ct-barlabel {
+  fill: #144552; }
+.dashboard #chart-753535949 .ct-series-a .ct-circle {
+  fill: #33adcc; }
+  .dashboard #chart-753535949 .ct-series-a .ct-circle + .ct-label {
+    fill: #33adcc; }
+.dashboard #chart-753535949 .ct-series-a .ct-slice-pie, .dashboard #chart-753535949 .ct-series-a .ct-area, .dashboard #chart-753535949 .ct-series-a .ct-slice-donut-solid {
+  fill: #33adcc;
+  stroke: #144552; }
+.dashboard #chart-753535949 .ct-series-0:before {
+  background-color: #33adcc;
+  border-color: #33adcc; }
+  .dashboard #chart-753535949 .ct-series-b .ct-point, .dashboard #chart-753535949 .ct-series-b .ct-line, .dashboard #chart-753535949 .ct-series-b .ct-bar, .dashboard #chart-753535949 .ct-series-b .ct-slice-donut {
+    stroke: #b3dbe6; }
+  .dashboard #chart-753535949 .ct-series-b .ct-bar + .ct-barlabel {
+    fill: #40a4c0; }
+  .dashboard #chart-753535949 .ct-series-b .ct-circle {
+    fill: #b3dbe6; }
+    .dashboard #chart-753535949 .ct-series-b .ct-circle + .ct-label {
+      fill: #b3dbe6; }
+  .dashboard #chart-753535949 .ct-series-b .ct-slice-pie, .dashboard #chart-753535949 .ct-series-b .ct-area, .dashboard #chart-753535949 .ct-series-b .ct-slice-donut-solid {
+    fill: #b3dbe6;
+    stroke: #40a4c0; }
+.dashboard #chart-753535949 .ct-series-1:before {
+  background-color: #b3dbe6;
+  border-color: #b3dbe6; }
+";
